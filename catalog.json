@@ -42,7 +42,7 @@
         "category": "electronics",
         "price": 328.33,
         "stock": 138,
-        "rating": 2
+        "rating": 2.0
       },
       {
         "id": "prod-3401ad8b-006",
@@ -90,13 +90,13 @@
         "category": "books",
         "price": 134.43,
         "stock": 30,
-        "rating": 5
+        "rating": 5.0
       },
       {
         "id": "prod-3401ad8b-012",
         "name": "Basic Item 12",
         "category": "books",
-        "price": 362.7,
+        "price": 362.70,
         "stock": 8,
         "rating": 3.3
       },
@@ -120,7 +120,7 @@
         "id": "prod-3401ad8b-015",
         "name": "Basic Item 15",
         "category": "electronics",
-        "price": 215.9,
+        "price": 215.90,
         "stock": 67,
         "rating": 3.1
       }
@@ -129,6 +129,18 @@
       "books": {
         "count": 3,
         "inventoryValue": 11361.00
+      },
+      "electronics": {
+        "count": 6,
+        "inventoryValue": 171949.00
+      },
+      "clothing": {
+        "count": 3,
+        "inventoryValue": 61936.80
+      },
+      "home": {
+        "count": 3,
+        "inventoryValue": 89663.81
       }
     }
   }
