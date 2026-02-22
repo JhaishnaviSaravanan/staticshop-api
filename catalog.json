@@ -4,25 +4,25 @@
       "version": "3401ad8b"
     },
     "products": [
-      { "id": 1, "name": "Book A", "category": "books", "price": 1000, "stock": 3, "rating": 4.5 },
-      { "id": 2, "name": "Book B", "category": "books", "price": 1500, "stock": 2, "rating": 4.2 },
-      { "id": 3, "name": "Book C", "category": "books", "price": 2000, "stock": 2, "rating": 4.8 },
+      { "id": "prod-3401ad8b-001", "name": "Book A", "category": "books", "price": 1000, "stock": 3, "rating": 4.5 },
+      { "id": "prod-3401ad8b-002", "name": "Book B", "category": "books", "price": 1500, "stock": 2, "rating": 4.2 },
+      { "id": "prod-3401ad8b-003", "name": "Book C", "category": "books", "price": 2000, "stock": 2, "rating": 4.8 },
   
-      { "id": 4, "name": "Laptop", "category": "electronics", "price": 50000, "stock": 5, "rating": 4.6 },
-      { "id": 5, "name": "Mouse", "category": "electronics", "price": 800, "stock": 20, "rating": 4.1 },
-      { "id": 6, "name": "Keyboard", "category": "electronics", "price": 1500, "stock": 10, "rating": 4.3 },
+      { "id": "prod-3401ad8b-004", "name": "Laptop", "category": "electronics", "price": 50000, "stock": 5, "rating": 4.6 },
+      { "id": "prod-3401ad8b-005", "name": "Mouse", "category": "electronics", "price": 800, "stock": 20, "rating": 4.1 },
+      { "id": "prod-3401ad8b-006", "name": "Keyboard", "category": "electronics", "price": 1500, "stock": 10, "rating": 4.3 },
   
-      { "id": 7, "name": "Shirt", "category": "clothing", "price": 1200, "stock": 15, "rating": 4.0 },
-      { "id": 8, "name": "Jeans", "category": "clothing", "price": 2500, "stock": 8, "rating": 4.4 },
-      { "id": 9, "name": "Jacket", "category": "clothing", "price": 4000, "stock": 6, "rating": 4.7 },
+      { "id": "prod-3401ad8b-007", "name": "Shirt", "category": "clothing", "price": 1200, "stock": 15, "rating": 4.0 },
+      { "id": "prod-3401ad8b-008", "name": "Jeans", "category": "clothing", "price": 2500, "stock": 8, "rating": 4.4 },
+      { "id": "prod-3401ad8b-009", "name": "Jacket", "category": "clothing", "price": 4000, "stock": 6, "rating": 4.7 },
   
-      { "id": 10, "name": "Coffee Maker", "category": "home", "price": 3000, "stock": 4, "rating": 4.2 },
-      { "id": 11, "name": "Blender", "category": "home", "price": 2200, "stock": 5, "rating": 4.1 },
-      { "id": 12, "name": "Chair", "category": "home", "price": 1800, "stock": 7, "rating": 4.3 },
+      { "id": "prod-3401ad8b-010", "name": "Coffee Maker", "category": "home", "price": 3000, "stock": 4, "rating": 4.2 },
+      { "id": "prod-3401ad8b-011", "name": "Blender", "category": "home", "price": 2200, "stock": 5, "rating": 4.1 },
+      { "id": "prod-3401ad8b-012", "name": "Chair", "category": "home", "price": 1800, "stock": 7, "rating": 4.3 },
   
-      { "id": 13, "name": "Football", "category": "sports", "price": 900, "stock": 12, "rating": 4.5 },
-      { "id": 14, "name": "Cricket Bat", "category": "sports", "price": 3500, "stock": 3, "rating": 4.6 },
-      { "id": 15, "name": "Tennis Racket", "category": "sports", "price": 4500, "stock": 2, "rating": 4.4 }
+      { "id": "prod-3401ad8b-013", "name": "Football", "category": "sports", "price": 900, "stock": 12, "rating": 4.5 },
+      { "id": "prod-3401ad8b-014", "name": "Cricket Bat", "category": "sports", "price": 3500, "stock": 3, "rating": 4.6 },
+      { "id": "prod-3401ad8b-015", "name": "Tennis Racket", "category": "sports", "price": 4500, "stock": 2, "rating": 4.4 }
     ],
     "aggregations": {
       "books": {
